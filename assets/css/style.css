@@ -1,0 +1,133 @@
+
+.name {
+	color: white;
+}
+
+.name2 {
+	color: white;
+	font-size: 40px !important;
+}
+
+.reg {
+	float: right;
+	padding-top: auto;
+	/*position: relative;*/
+}
+
+.nav {
+	background-color: #f70404;
+}
+
+.bodyContainer {
+	/*background-color: #ffffff;*/
+	padding-top: 5px;
+	padding-left: 60px;
+
+}
+
+html body {
+	background-color:#f70404;
+}
+
+.single-img {
+	padding-top: 30px;
+	margin: auto;
+	/*border: solid pink 2px;*/
+}
+
+.numberPage {
+	padding-top: 30px;
+}
+
+.num {
+	background-color: #ffffff;
+	padding: 3px;
+	color: red;
+	margin: auto;
+	font-size: 20px;
+	border-radius: 4px;
+}
+
+.imgCover {
+	border: solid pink 8px;
+	border-bottom: 0px;
+}
+
+.adDetails {
+	display: inline-block;
+	/*margin-top;*/
+}
+
+.sectionPart {
+	background-color: #ffffff;
+	/*margin-top: 5px;*/
+	margin-right: 29px;
+	border-right: solid pink 8px;
+	border-bottom: solid pink 8px;
+
+
+}
+
+.font {
+	font-size: 32px;
+	padding-left: 10px;
+	background-color: black;
+	color: red;
+    padding-right: 10px;
+    padding-top: 20px;
+    padding-bottom: 5px;
+    background-color: black
+}
+
+.font2 {
+	font-size: 32px;
+	padding-left: 10px;
+	background-color: black;
+	color: blue;
+    padding-right: 10px;
+    padding-top: 20px;
+    padding-bottom: 5px;
+    background-color: black
+}
+
+.font3 {
+	font-size: 32px;
+	padding-left: 10px;
+	background-color: black;
+	color: yellow;
+    padding-right: 10px;
+    padding-top: 20px;
+    padding-bottom: 5px;
+    background-color: black
+}
+
+
+/*.side {
+	padding-top: -10px !important; 
+}*/
+
+.navLine1 {
+	border-top: blue solid 4px;
+}
+
+.navLine2 {
+	border-top: yellow solid 4px; 
+}
+
+.navLine3 {
+	border-top: black solid 4px;
+}
+
+.secondMenu {
+	padding: 17px;
+}
+
+.subMenu {
+	color: white;
+	font-size: 18px;
+	padding: 18px;
+}
+
+.menu1 {
+	border-right: solid white 2px; 
+}
